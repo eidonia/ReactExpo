@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactExpo",
-    "slug": "ReactExpo",
+    "name": "LearnReact",
+    "slug": "LearnReact",
     "platforms": [
       "ios",
       "android",
